@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/incidentflow?createDatabaseIfNotExist=true&serverTimezone=UTC
     username: root
-    password: password
+    password: testPass
 
   jpa:
     hibernate:
